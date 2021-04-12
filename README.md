@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @faridgrunge
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning C++ biar dikira keren
+- 🌱 I’m currently learning C#m
 - 💞️ I’m still newbie in coding
 - 📫 Don't reach me ...
 
